@@ -22,6 +22,13 @@ const data = [
     github: "https://github.com/soaler29naman/Crypto_Converter",
     demo: "crypto-converter-eta.vercel.app",
   },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Amazon Clone",
+    github: "https://github.com/soaler29naman/Amazon_Clone",
+    demo: "amazon-clone-gray.vercel.app",
+  },
 
 ];
 
